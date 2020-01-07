@@ -1,0 +1,14 @@
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.exe
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.deps.json
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.runtimeconfig.json
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.runtimeconfig.dev.json
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.dll
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\FootBallForm.pdb
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\zabegaev\source\repos\football\FootBallForm\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.csprojAssemblyReference.cache
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.AssemblyInfoInputs.cache
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.AssemblyInfo.cs
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.csproj.CopyComplete
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.dll
+C:\Users\zabegaev\source\repos\football\FootBallForm\obj\Debug\netcoreapp3.0\FootBallForm.pdb

@@ -1,0 +1,11 @@
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.exe
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.deps.json
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.runtimeconfig.json
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.runtimeconfig.dev.json
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.dll
+C:\Users\zabegaev\source\repos\football\football\bin\Debug\netcoreapp3.0\football.pdb
+C:\Users\zabegaev\source\repos\football\football\obj\Debug\netcoreapp3.0\football.csprojAssemblyReference.cache
+C:\Users\zabegaev\source\repos\football\football\obj\Debug\netcoreapp3.0\football.AssemblyInfoInputs.cache
+C:\Users\zabegaev\source\repos\football\football\obj\Debug\netcoreapp3.0\football.AssemblyInfo.cs
+C:\Users\zabegaev\source\repos\football\football\obj\Debug\netcoreapp3.0\football.dll
+C:\Users\zabegaev\source\repos\football\football\obj\Debug\netcoreapp3.0\football.pdb
