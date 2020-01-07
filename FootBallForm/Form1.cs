@@ -15,7 +15,7 @@ namespace FootBallForm
     public partial class Form1 : Form
     {
         public int heightField = 500;
-        public int widthField = 800;
+        public int widthField = 1000;
         private int Countballs = 5;
         private int BallWidth = 30;
         private int BallHeight = 30;
